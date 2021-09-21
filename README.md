@@ -6,3 +6,5 @@ Hi there, I'm a PhD student at the Singapore University of Technology and Design
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tlkh&layout=compact&count_private=true" />
 </a>
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=tlkh.visitor-badge&left_color=green&right_color=red)
